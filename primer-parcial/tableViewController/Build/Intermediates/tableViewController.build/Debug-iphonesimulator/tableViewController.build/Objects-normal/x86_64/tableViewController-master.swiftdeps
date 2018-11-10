@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "82eae3b20871f49b5ccb63a4ab1d45e4"
+build_time: [572379834, 6702000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/tableViewController/tableViewController/jugador.swift": [571774019, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/tableViewController/tableViewController/ViewControllerAgregar.swift": [572379831, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/tableViewController/tableViewController/ViewController.swift": [571776422, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/tableViewController/tableViewController/TableViewController.swift": [572379598, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/tableViewController/tableViewController/AppDelegate.swift": [571773333, 0]

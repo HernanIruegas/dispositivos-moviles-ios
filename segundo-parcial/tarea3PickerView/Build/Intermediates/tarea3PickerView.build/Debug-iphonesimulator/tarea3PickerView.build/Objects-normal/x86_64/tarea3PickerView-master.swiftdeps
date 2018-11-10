@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "aff5931023c3a7152b84abb5ec4ae360"
+build_time: [573615054, 667905000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tarea3PickerView/tarea3PickerView/SecondViewController.swift": [573615052, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tarea3PickerView/tarea3PickerView/AppDelegate.swift": [573604762, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tarea3PickerView/tarea3PickerView/FirstViewController.swift": [573614941, 0]

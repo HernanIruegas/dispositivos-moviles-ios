@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>tipo</key>
+		<string>iPhone SE</string>
+		<key>capacidad</key>
+		<string>128 Gb</string>
+		<key>precio</key>
+		<integer>10299</integer>
+		<key>urlFoto</key>
+		<string>http://i-cdn.phonearena.com/images/phones/61117-default/Apple-iPhone-SE-3.jpg</string>
+	</dict>
+	<dict>
+		<key>tipo</key>
+		<string>iPhone 7</string>
+		<key>capacidad</key>
+		<string>128 Gb</string>
+		<key>precio</key>
+		<integer>15499</integer>
+		<key>urlFoto</key>
+		<string>http://i-cdn.phonearena.com/images/phones/63264-xlarge/Apple-iPhone-7-6.jpg</string>
+	</dict>
+	<dict>
+		<key>tipo</key>
+		<string>iPhone 7 Plus</string>
+		<key>capacidad</key>
+		<string>128 Gb</string>
+		<key>precio</key>
+		<integer>18299</integer>
+		<key>urlFoto</key>
+		<string>http://i-cdn.phonearena.com/images/phones/63243-xlarge/Apple-iPhone-7-Plus-5.jpg</string>
+	</dict>
+	<dict>
+		<key>tipo</key>
+		<string>iPhone 8</string>
+		<key>capacidad</key>
+		<string>256 Gb</string>
+		<key>precio</key>
+		<integer>19999</integer>
+		<key>urlFoto</key>
+		<string>http://media-s3-us-east-1.ceros.com/business-insider/images/2017/09/12/bf6c6af2001936a71d8ac0de0b5dc92f/iphone-8-plus.png</string>
+	</dict>
+	<dict>
+		<key>tipo</key>
+		<string>iPhone 8 Plus</string>
+		<key>capacidad</key>
+		<string>256 Gb</string>
+		<key>precio</key>
+		<integer>22499</integer>
+		<key>urlFoto</key>
+		<string>https://boltmobile.ca/wp-content/uploads/2017/09/iphone8-plus-sasktel-boltmobile-silver-front.png</string>
+	</dict>
+</array>
+</plist>

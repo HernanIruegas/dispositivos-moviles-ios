@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "c0c7c712417775d0c947ee694854f304"
+build_time: [569978744, 514143000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/act-Date/act-Date/ViewController.swift": [569978711, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/act-Date/act-Date/AppDelegate.swift": [569969965, 0]

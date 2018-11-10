@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "267c81021bf0cfeebe4596962ec271ef"
+build_time: [576263425, 447077000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/EjemploCoreData/Empleados+CoreDataProperties.swift": [9223372036854775807, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/EjemploCoreData/EjemploCoreData/ViewController.swift": [576262643, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/EjemploCoreData/Empleados+CoreDataClass.swift": [9223372036854775807, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/EjemploCoreData/EjemploCoreData/AppDelegate.swift": [576262643, 0]

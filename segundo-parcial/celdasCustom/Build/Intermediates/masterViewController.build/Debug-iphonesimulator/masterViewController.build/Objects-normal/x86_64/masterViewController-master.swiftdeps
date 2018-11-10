@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "08d77bf14099d34e2f81b931c15e2887"
+build_time: [575001645, 743842000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/celdasCustom/masterViewController/Empleado.swift": [573588859, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/celdasCustom/masterViewController/CustomTableViewCell.swift": [573589832, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/celdasCustom/masterViewController/TableViewController.swift": [574060322, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/celdasCustom/masterViewController/AppDelegate.swift": [573587175, 0]

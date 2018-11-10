@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "85492681387b40fc382bb9faaca8f9b6"
+build_time: [577418186, 185499000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tarea4_tableViewController/tarea4_tableViewController/TableViewCell.swift": [574056776, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tarea4_tableViewController/tarea4_tableViewController/AppDelegate.swift": [574048440, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tarea4_tableViewController/TableViewController.swift": [577342456, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "5ecfcaffc44fcac47ec7f3ff76026f68"
+build_time: [574224361, 212874000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/cargarDatosPropertyList/cargarDatosPropertyList/ViewController.swift": [574060414, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/cargarDatosPropertyList/cargarDatosPropertyList/AppDelegate.swift": [573241779, 0]

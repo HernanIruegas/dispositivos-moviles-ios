@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "01071ad78c1f883b36231c5005166939"
+build_time: [569011990, 393761000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/actDivisas/actDivisas/ViewController.swift": [569011917, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/actDivisas/actDivisas/AppDelegate.swift": [569009006, 0]

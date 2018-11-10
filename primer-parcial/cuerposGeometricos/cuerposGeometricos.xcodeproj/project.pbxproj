@@ -1,0 +1,536 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4DADB191201F9ECA00F656E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADB190201F9ECA00F656E5 /* AppDelegate.swift */; };
+		4DADB193201F9ECA00F656E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADB192201F9ECA00F656E5 /* ViewController.swift */; };
+		4DADB196201F9ECA00F656E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DADB194201F9ECA00F656E5 /* Main.storyboard */; };
+		4DADB198201F9ECA00F656E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DADB197201F9ECA00F656E5 /* Assets.xcassets */; };
+		4DADB19B201F9ECA00F656E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DADB199201F9ECA00F656E5 /* LaunchScreen.storyboard */; };
+		4DADB1A6201F9ECB00F656E5 /* cuerposGeometricosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADB1A5201F9ECB00F656E5 /* cuerposGeometricosTests.swift */; };
+		4DADB1B1201F9ECB00F656E5 /* cuerposGeometricosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADB1B0201F9ECB00F656E5 /* cuerposGeometricosUITests.swift */; };
+		4DADB1BF201FA32700F656E5 /* ViewControllerEsfera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADB1BE201FA32700F656E5 /* ViewControllerEsfera.swift */; };
+		4DADB1C1201FA33C00F656E5 /* ViewControllerPrisma.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADB1C0201FA33C00F656E5 /* ViewControllerPrisma.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4DADB1A2201F9ECB00F656E5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4DADB185201F9ECA00F656E5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4DADB18C201F9ECA00F656E5;
+			remoteInfo = cuerposGeometricos;
+		};
+		4DADB1AD201F9ECB00F656E5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4DADB185201F9ECA00F656E5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4DADB18C201F9ECA00F656E5;
+			remoteInfo = cuerposGeometricos;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4DADB18D201F9ECA00F656E5 /* cuerposGeometricos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cuerposGeometricos.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DADB190201F9ECA00F656E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4DADB192201F9ECA00F656E5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4DADB195201F9ECA00F656E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4DADB197201F9ECA00F656E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4DADB19A201F9ECA00F656E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4DADB19C201F9ECA00F656E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DADB1A1201F9ECB00F656E5 /* cuerposGeometricosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cuerposGeometricosTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DADB1A5201F9ECB00F656E5 /* cuerposGeometricosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cuerposGeometricosTests.swift; sourceTree = "<group>"; };
+		4DADB1A7201F9ECB00F656E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DADB1AC201F9ECB00F656E5 /* cuerposGeometricosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cuerposGeometricosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DADB1B0201F9ECB00F656E5 /* cuerposGeometricosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cuerposGeometricosUITests.swift; sourceTree = "<group>"; };
+		4DADB1B2201F9ECB00F656E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DADB1BE201FA32700F656E5 /* ViewControllerEsfera.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerEsfera.swift; sourceTree = "<group>"; };
+		4DADB1C0201FA33C00F656E5 /* ViewControllerPrisma.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerPrisma.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4DADB18A201F9ECA00F656E5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4DADB19E201F9ECB00F656E5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4DADB1A9201F9ECB00F656E5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4DADB184201F9ECA00F656E5 = {
+			isa = PBXGroup;
+			children = (
+				4DADB18F201F9ECA00F656E5 /* cuerposGeometricos */,
+				4DADB1A4201F9ECB00F656E5 /* cuerposGeometricosTests */,
+				4DADB1AF201F9ECB00F656E5 /* cuerposGeometricosUITests */,
+				4DADB18E201F9ECA00F656E5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4DADB18E201F9ECA00F656E5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4DADB18D201F9ECA00F656E5 /* cuerposGeometricos.app */,
+				4DADB1A1201F9ECB00F656E5 /* cuerposGeometricosTests.xctest */,
+				4DADB1AC201F9ECB00F656E5 /* cuerposGeometricosUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4DADB18F201F9ECA00F656E5 /* cuerposGeometricos */ = {
+			isa = PBXGroup;
+			children = (
+				4DADB190201F9ECA00F656E5 /* AppDelegate.swift */,
+				4DADB192201F9ECA00F656E5 /* ViewController.swift */,
+				4DADB194201F9ECA00F656E5 /* Main.storyboard */,
+				4DADB1BE201FA32700F656E5 /* ViewControllerEsfera.swift */,
+				4DADB1C0201FA33C00F656E5 /* ViewControllerPrisma.swift */,
+				4DADB197201F9ECA00F656E5 /* Assets.xcassets */,
+				4DADB199201F9ECA00F656E5 /* LaunchScreen.storyboard */,
+				4DADB19C201F9ECA00F656E5 /* Info.plist */,
+			);
+			path = cuerposGeometricos;
+			sourceTree = "<group>";
+		};
+		4DADB1A4201F9ECB00F656E5 /* cuerposGeometricosTests */ = {
+			isa = PBXGroup;
+			children = (
+				4DADB1A5201F9ECB00F656E5 /* cuerposGeometricosTests.swift */,
+				4DADB1A7201F9ECB00F656E5 /* Info.plist */,
+			);
+			path = cuerposGeometricosTests;
+			sourceTree = "<group>";
+		};
+		4DADB1AF201F9ECB00F656E5 /* cuerposGeometricosUITests */ = {
+			isa = PBXGroup;
+			children = (
+				4DADB1B0201F9ECB00F656E5 /* cuerposGeometricosUITests.swift */,
+				4DADB1B2201F9ECB00F656E5 /* Info.plist */,
+			);
+			path = cuerposGeometricosUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4DADB18C201F9ECA00F656E5 /* cuerposGeometricos */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4DADB1B5201F9ECB00F656E5 /* Build configuration list for PBXNativeTarget "cuerposGeometricos" */;
+			buildPhases = (
+				4DADB189201F9ECA00F656E5 /* Sources */,
+				4DADB18A201F9ECA00F656E5 /* Frameworks */,
+				4DADB18B201F9ECA00F656E5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = cuerposGeometricos;
+			productName = cuerposGeometricos;
+			productReference = 4DADB18D201F9ECA00F656E5 /* cuerposGeometricos.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4DADB1A0201F9ECB00F656E5 /* cuerposGeometricosTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4DADB1B8201F9ECB00F656E5 /* Build configuration list for PBXNativeTarget "cuerposGeometricosTests" */;
+			buildPhases = (
+				4DADB19D201F9ECB00F656E5 /* Sources */,
+				4DADB19E201F9ECB00F656E5 /* Frameworks */,
+				4DADB19F201F9ECB00F656E5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4DADB1A3201F9ECB00F656E5 /* PBXTargetDependency */,
+			);
+			name = cuerposGeometricosTests;
+			productName = cuerposGeometricosTests;
+			productReference = 4DADB1A1201F9ECB00F656E5 /* cuerposGeometricosTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4DADB1AB201F9ECB00F656E5 /* cuerposGeometricosUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4DADB1BB201F9ECB00F656E5 /* Build configuration list for PBXNativeTarget "cuerposGeometricosUITests" */;
+			buildPhases = (
+				4DADB1A8201F9ECB00F656E5 /* Sources */,
+				4DADB1A9201F9ECB00F656E5 /* Frameworks */,
+				4DADB1AA201F9ECB00F656E5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4DADB1AE201F9ECB00F656E5 /* PBXTargetDependency */,
+			);
+			name = cuerposGeometricosUITests;
+			productName = cuerposGeometricosUITests;
+			productReference = 4DADB1AC201F9ECB00F656E5 /* cuerposGeometricosUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4DADB185201F9ECA00F656E5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Hernán Iruegas Villarreal";
+				TargetAttributes = {
+					4DADB18C201F9ECA00F656E5 = {
+						CreatedOnToolsVersion = 8.2;
+						ProvisioningStyle = Automatic;
+					};
+					4DADB1A0201F9ECB00F656E5 = {
+						CreatedOnToolsVersion = 8.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4DADB18C201F9ECA00F656E5;
+					};
+					4DADB1AB201F9ECB00F656E5 = {
+						CreatedOnToolsVersion = 8.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4DADB18C201F9ECA00F656E5;
+					};
+				};
+			};
+			buildConfigurationList = 4DADB188201F9ECA00F656E5 /* Build configuration list for PBXProject "cuerposGeometricos" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4DADB184201F9ECA00F656E5;
+			productRefGroup = 4DADB18E201F9ECA00F656E5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4DADB18C201F9ECA00F656E5 /* cuerposGeometricos */,
+				4DADB1A0201F9ECB00F656E5 /* cuerposGeometricosTests */,
+				4DADB1AB201F9ECB00F656E5 /* cuerposGeometricosUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4DADB18B201F9ECA00F656E5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4DADB19B201F9ECA00F656E5 /* LaunchScreen.storyboard in Resources */,
+				4DADB198201F9ECA00F656E5 /* Assets.xcassets in Resources */,
+				4DADB196201F9ECA00F656E5 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4DADB19F201F9ECB00F656E5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4DADB1AA201F9ECB00F656E5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4DADB189201F9ECA00F656E5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4DADB1C1201FA33C00F656E5 /* ViewControllerPrisma.swift in Sources */,
+				4DADB1BF201FA32700F656E5 /* ViewControllerEsfera.swift in Sources */,
+				4DADB193201F9ECA00F656E5 /* ViewController.swift in Sources */,
+				4DADB191201F9ECA00F656E5 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4DADB19D201F9ECB00F656E5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4DADB1A6201F9ECB00F656E5 /* cuerposGeometricosTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4DADB1A8201F9ECB00F656E5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4DADB1B1201F9ECB00F656E5 /* cuerposGeometricosUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4DADB1A3201F9ECB00F656E5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4DADB18C201F9ECA00F656E5 /* cuerposGeometricos */;
+			targetProxy = 4DADB1A2201F9ECB00F656E5 /* PBXContainerItemProxy */;
+		};
+		4DADB1AE201F9ECB00F656E5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4DADB18C201F9ECA00F656E5 /* cuerposGeometricos */;
+			targetProxy = 4DADB1AD201F9ECB00F656E5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		4DADB194201F9ECA00F656E5 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4DADB195201F9ECA00F656E5 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4DADB199201F9ECA00F656E5 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4DADB19A201F9ECA00F656E5 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4DADB1B3201F9ECB00F656E5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4DADB1B4201F9ECB00F656E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4DADB1B6201F9ECB00F656E5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = cuerposGeometricos/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hernan.cuerposGeometricos;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		4DADB1B7201F9ECB00F656E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = cuerposGeometricos/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hernan.cuerposGeometricos;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		4DADB1B9201F9ECB00F656E5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = cuerposGeometricosTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hernan.cuerposGeometricosTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cuerposGeometricos.app/cuerposGeometricos";
+			};
+			name = Debug;
+		};
+		4DADB1BA201F9ECB00F656E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = cuerposGeometricosTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hernan.cuerposGeometricosTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cuerposGeometricos.app/cuerposGeometricos";
+			};
+			name = Release;
+		};
+		4DADB1BC201F9ECB00F656E5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = cuerposGeometricosUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hernan.cuerposGeometricosUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = cuerposGeometricos;
+			};
+			name = Debug;
+		};
+		4DADB1BD201F9ECB00F656E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = cuerposGeometricosUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hernan.cuerposGeometricosUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = cuerposGeometricos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4DADB188201F9ECA00F656E5 /* Build configuration list for PBXProject "cuerposGeometricos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4DADB1B3201F9ECB00F656E5 /* Debug */,
+				4DADB1B4201F9ECB00F656E5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4DADB1B5201F9ECB00F656E5 /* Build configuration list for PBXNativeTarget "cuerposGeometricos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4DADB1B6201F9ECB00F656E5 /* Debug */,
+				4DADB1B7201F9ECB00F656E5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4DADB1B8201F9ECB00F656E5 /* Build configuration list for PBXNativeTarget "cuerposGeometricosTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4DADB1B9201F9ECB00F656E5 /* Debug */,
+				4DADB1BA201F9ECB00F656E5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4DADB1BB201F9ECB00F656E5 /* Build configuration list for PBXNativeTarget "cuerposGeometricosUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4DADB1BC201F9ECB00F656E5 /* Debug */,
+				4DADB1BD201F9ECB00F656E5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4DADB185201F9ECA00F656E5 /* Project object */;
+}

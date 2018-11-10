@@ -1,0 +1,140 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Empleado"
+provides-nominal:
+- "C20masterViewController8Empleado"
+provides-member:
+- ["C20masterViewController8Empleado", ""]
+provides-dynamic-lookup:
+- "departamento"
+- "nombre"
+- "foto"
+depends-top-level:
+- "AssignmentPrecedence"
+- "NSObject"
+- "String"
+- "Float"
+- "UIImage"
+- !private "StringLiteralType"
+- "Empleado"
+depends-member:
+- ["Ps9AnyObject", "departamento"]
+- ["Ps9AnyObject", "foto"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "nombre"]
+- ["Ps9AnyObject", "sueldo"]
+- ["Ps9AnyObject", ""]
+- ["Ps7CVarArg", "departamento"]
+- ["Ps7CVarArg", "foto"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "nombre"]
+- ["Ps7CVarArg", "sueldo"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "departamento"]
+- ["Ps28CustomDebugStringConvertible", "foto"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "nombre"]
+- ["Ps28CustomDebugStringConvertible", "sueldo"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "departamento"]
+- ["Ps23CustomStringConvertible", "foto"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "nombre"]
+- ["Ps23CustomStringConvertible", "sueldo"]
+- ["Ps23CustomStringConvertible", ""]
+- ["C20masterViewController8Empleado", "Float"]
+- ["C20masterViewController8Empleado", "String"]
+- ["C20masterViewController8Empleado", "UIImage"]
+- ["C20masterViewController8Empleado", "deinit"]
+- ["C20masterViewController8Empleado", "departamento"]
+- ["C20masterViewController8Empleado", "foto"]
+- ["C20masterViewController8Empleado", "init"]
+- ["C20masterViewController8Empleado", "nombre"]
+- ["C20masterViewController8Empleado", "sueldo"]
+- ["Ps9Equatable", "departamento"]
+- ["Ps9Equatable", "foto"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "nombre"]
+- ["Ps9Equatable", "sueldo"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Sf", "deinit"]
+- ["Ps8Hashable", "departamento"]
+- ["Ps8Hashable", "foto"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "nombre"]
+- ["Ps8Hashable", "sueldo"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo8NSObject", "Float"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "departamento"]
+- ["CSo8NSObject", "foto"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "nombre"]
+- ["CSo8NSObject", "sueldo"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "departamento"]
+- ["PSo16NSObjectProtocol", "foto"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "nombre"]
+- ["PSo16NSObjectProtocol", "sueldo"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Os5Never", "deinit"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- ["CSo7UIImage", "deinit"]
+- ["Su", "deinit"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps9_Hashable", "departamento"]
+- ["Ps9_Hashable", "foto"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "nombre"]
+- ["Ps9_Hashable", "sueldo"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "C20masterViewController8Empleado"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Sf"
+- "Ps8Hashable"
+- "SQ"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Os5Never"
+- "Vs12StaticString"
+- "SS"
+- "CSo7UIImage"
+- "Su"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "4c18e3ac95d08f0f36b4af611b4278c4"

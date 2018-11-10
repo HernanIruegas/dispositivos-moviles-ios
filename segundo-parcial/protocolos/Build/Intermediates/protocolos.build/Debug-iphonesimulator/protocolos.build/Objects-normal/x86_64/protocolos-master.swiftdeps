@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "7ed369a15d11893a2f26555046d6205e"
+build_time: [572808990, 549153000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/protocolos/protocolos/Actividad.swift": [572637500, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/protocolos/protocolos/ViewController.swift": [572808705, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/protocolos/protocolos/AppDelegate.swift": [572637045, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/protocolos/protocolos/ViewControllerCalificar.swift": [572808990, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/protocolos/protocolos/TableViewController.swift": [572808703, 0]

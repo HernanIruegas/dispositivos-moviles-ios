@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "77b4a850f2d1d1091f0605489024cff8"
+build_time: [570565242, 829929000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/act_storyboard/act_storyboard/ViewController.swift": !dirty [570565242, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/act_storyboard/act_storyboard/ViewControllerEditar.swift": !dirty [570565242, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/act_storyboard/act_storyboard/ViewControllerInformacion.swift": !dirty [570565242, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/act_storyboard/act_storyboard/AppDelegate.swift": [570219134, 0]

@@ -1,0 +1,124 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Actividad"
+provides-nominal:
+- "C10protocolos9Actividad"
+provides-member:
+- ["C10protocolos9Actividad", ""]
+provides-dynamic-lookup:
+- "coment"
+- "nombreAlum"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Int"
+- "Actividad"
+- !private "StringLiteralType"
+- "NSObject"
+- "String"
+depends-member:
+- ["C10protocolos9Actividad", "Int"]
+- ["C10protocolos9Actividad", "String"]
+- ["C10protocolos9Actividad", "calif"]
+- ["C10protocolos9Actividad", "coment"]
+- ["C10protocolos9Actividad", "deinit"]
+- ["C10protocolos9Actividad", "init"]
+- ["C10protocolos9Actividad", "nombreAlum"]
+- ["Ps9AnyObject", "calif"]
+- ["Ps9AnyObject", "coment"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "nombreAlum"]
+- ["Ps9AnyObject", ""]
+- ["Ps7CVarArg", "calif"]
+- ["Ps7CVarArg", "coment"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "nombreAlum"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "calif"]
+- ["Ps28CustomDebugStringConvertible", "coment"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "nombreAlum"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "calif"]
+- ["Ps23CustomStringConvertible", "coment"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "nombreAlum"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "calif"]
+- ["Ps9Equatable", "coment"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "nombreAlum"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "calif"]
+- ["Ps8Hashable", "coment"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "nombreAlum"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["Si", "deinit"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "calif"]
+- ["CSo8NSObject", "coment"]
+- ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "nombreAlum"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "calif"]
+- ["PSo16NSObjectProtocol", "coment"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "nombreAlum"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Os5Never", "deinit"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- ["Su", "deinit"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps9_Hashable", "calif"]
+- ["Ps9_Hashable", "coment"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "nombreAlum"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "C10protocolos9Actividad"
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "SQ"
+- "Si"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Os5Never"
+- "Vs12StaticString"
+- "SS"
+- "Su"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "1b56162e9b80aaa1e5eeefbb3e06bf01"

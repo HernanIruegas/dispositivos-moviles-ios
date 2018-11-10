@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "698db6a7a9c68816b9e8f455ef190d2a"
+build_time: [577648233, 526840000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/tercer-parcial/scrollViewActClase/scrollViewActClase/ViewController.swift": [576867991, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/tercer-parcial/scrollViewActClase/scrollViewActClase/AppDelegate.swift": [576866863, 0]

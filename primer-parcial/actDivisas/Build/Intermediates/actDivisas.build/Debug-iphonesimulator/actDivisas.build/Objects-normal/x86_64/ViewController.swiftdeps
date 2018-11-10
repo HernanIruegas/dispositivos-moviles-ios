@@ -1,0 +1,667 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C10actDivisas14ViewController"
+provides-member:
+- ["C10actDivisas14ViewController", ""]
+provides-dynamic-lookup:
+- "tpPesos"
+- "viewDidLoad"
+- "calcular"
+- "didReceiveMemoryWarning"
+- "tpDolares"
+- "tipoCambio"
+- "imagen"
+- "quitaTeclado"
+depends-top-level:
+- "UIImageView"
+- !private "_ImageLiteralType"
+- !private "UIAlertAction"
+- "ViewController"
+- !private "Double"
+- "UIViewController"
+- !private "UITapGestureRecognizer"
+- !private "BooleanLiteralType"
+- "UIButton"
+- "AssignmentPrecedence"
+- "UITextField"
+- !private "/"
+- !private "UIAlertController"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps16AbsoluteValuable", "init"]
+- !private ["Ps9AnyObject", "Double"]
+- !private ["Ps9AnyObject", "UIAlertAction"]
+- !private ["Ps9AnyObject", "UIAlertController"]
+- !private ["Ps9AnyObject", "UITapGestureRecognizer"]
+- !private ["Ps9AnyObject", "addAction"]
+- !private ["Ps9AnyObject", "addGestureRecognizer"]
+- ["Ps9AnyObject", "calcular"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "endEditing"]
+- !private ["Ps9AnyObject", "image"]
+- ["Ps9AnyObject", "imagen"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "present"]
+- ["Ps9AnyObject", "quitaTeclado"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", "tipoCambio"]
+- ["Ps9AnyObject", "tpDolares"]
+- ["Ps9AnyObject", "tpPesos"]
+- !private ["Ps9AnyObject", "view"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps19BinaryFloatingPoint", "init"]
+- ["Sb", "deinit"]
+- !private ["PSo15CALayerDelegate", "addGestureRecognizer"]
+- !private ["PSo15CALayerDelegate", "endEditing"]
+- !private ["PSo15CALayerDelegate", "image"]
+- !private ["PSo15CALayerDelegate", "text"]
+- !private ["Ps7CVarArg", "Double"]
+- !private ["Ps7CVarArg", "UIAlertAction"]
+- !private ["Ps7CVarArg", "UIAlertController"]
+- !private ["Ps7CVarArg", "UITapGestureRecognizer"]
+- !private ["Ps7CVarArg", "addAction"]
+- !private ["Ps7CVarArg", "addGestureRecognizer"]
+- ["Ps7CVarArg", "calcular"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "endEditing"]
+- !private ["Ps7CVarArg", "image"]
+- ["Ps7CVarArg", "imagen"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "present"]
+- ["Ps7CVarArg", "quitaTeclado"]
+- !private ["Ps7CVarArg", "text"]
+- ["Ps7CVarArg", "tipoCambio"]
+- ["Ps7CVarArg", "tpDolares"]
+- ["Ps7CVarArg", "tpPesos"]
+- !private ["Ps7CVarArg", "view"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Double"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertAction"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertController"]
+- !private ["Ps28CustomDebugStringConvertible", "UITapGestureRecognizer"]
+- !private ["Ps28CustomDebugStringConvertible", "addAction"]
+- !private ["Ps28CustomDebugStringConvertible", "addGestureRecognizer"]
+- ["Ps28CustomDebugStringConvertible", "calcular"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "endEditing"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- ["Ps28CustomDebugStringConvertible", "imagen"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "present"]
+- ["Ps28CustomDebugStringConvertible", "quitaTeclado"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", "tipoCambio"]
+- ["Ps28CustomDebugStringConvertible", "tpDolares"]
+- ["Ps28CustomDebugStringConvertible", "tpPesos"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Double"]
+- !private ["Ps23CustomStringConvertible", "UIAlertAction"]
+- !private ["Ps23CustomStringConvertible", "UIAlertController"]
+- !private ["Ps23CustomStringConvertible", "UITapGestureRecognizer"]
+- !private ["Ps23CustomStringConvertible", "addAction"]
+- !private ["Ps23CustomStringConvertible", "addGestureRecognizer"]
+- ["Ps23CustomStringConvertible", "calcular"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "endEditing"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- ["Ps23CustomStringConvertible", "imagen"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "present"]
+- ["Ps23CustomStringConvertible", "quitaTeclado"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", "tipoCambio"]
+- ["Ps23CustomStringConvertible", "tpDolares"]
+- ["Ps23CustomStringConvertible", "tpPesos"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Sd", "deinit"]
+- !private ["Sd", "init"]
+- !private ["Ps9Equatable", "Double"]
+- !private ["Ps9Equatable", "UIAlertAction"]
+- !private ["Ps9Equatable", "UIAlertController"]
+- !private ["Ps9Equatable", "UITapGestureRecognizer"]
+- !private ["Ps9Equatable", "addAction"]
+- !private ["Ps9Equatable", "addGestureRecognizer"]
+- !private ["Ps9Equatable", "alert"]
+- ["Ps9Equatable", "calcular"]
+- !private ["Ps9Equatable", "cancel"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "endEditing"]
+- !private ["Ps9Equatable", "image"]
+- ["Ps9Equatable", "imagen"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "present"]
+- ["Ps9Equatable", "quitaTeclado"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", "tipoCambio"]
+- ["Ps9Equatable", "tpDolares"]
+- ["Ps9Equatable", "tpPesos"]
+- !private ["Ps9Equatable", "view"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps13FloatingPoint", "init"]
+- !private ["Ps8Hashable", "Double"]
+- !private ["Ps8Hashable", "UIAlertAction"]
+- !private ["Ps8Hashable", "UIAlertController"]
+- !private ["Ps8Hashable", "UITapGestureRecognizer"]
+- !private ["Ps8Hashable", "addAction"]
+- !private ["Ps8Hashable", "addGestureRecognizer"]
+- !private ["Ps8Hashable", "alert"]
+- ["Ps8Hashable", "calcular"]
+- !private ["Ps8Hashable", "cancel"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "endEditing"]
+- !private ["Ps8Hashable", "image"]
+- ["Ps8Hashable", "imagen"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "present"]
+- ["Ps8Hashable", "quitaTeclado"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", "tipoCambio"]
+- ["Ps8Hashable", "tpDolares"]
+- ["Ps8Hashable", "tpPesos"]
+- !private ["Ps8Hashable", "view"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "Double"]
+- !private ["PSo8NSCoding", "UIAlertAction"]
+- !private ["PSo8NSCoding", "UIAlertController"]
+- !private ["PSo8NSCoding", "UITapGestureRecognizer"]
+- !private ["PSo8NSCoding", "addAction"]
+- !private ["PSo8NSCoding", "addGestureRecognizer"]
+- ["PSo8NSCoding", "calcular"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "endEditing"]
+- !private ["PSo8NSCoding", "image"]
+- ["PSo8NSCoding", "imagen"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "present"]
+- ["PSo8NSCoding", "quitaTeclado"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "tipoCambio"]
+- ["PSo8NSCoding", "tpDolares"]
+- ["PSo8NSCoding", "tpPesos"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "Double"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertAction"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertController"]
+- !private ["PSo26NSExtensionRequestHandling", "UITapGestureRecognizer"]
+- !private ["PSo26NSExtensionRequestHandling", "addAction"]
+- ["PSo26NSExtensionRequestHandling", "calcular"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "imagen"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "present"]
+- ["PSo26NSExtensionRequestHandling", "quitaTeclado"]
+- ["PSo26NSExtensionRequestHandling", "tipoCambio"]
+- ["PSo26NSExtensionRequestHandling", "tpDolares"]
+- ["PSo26NSExtensionRequestHandling", "tpPesos"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "Double"]
+- !private ["CSo8NSObject", "UIAlertAction"]
+- !private ["CSo8NSObject", "UIAlertController"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UIImageView"]
+- !private ["CSo8NSObject", "UITapGestureRecognizer"]
+- ["CSo8NSObject", "UITextField"]
+- !private ["CSo8NSObject", "addAction"]
+- !private ["CSo8NSObject", "addGestureRecognizer"]
+- ["CSo8NSObject", "calcular"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "endEditing"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "imagen"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "present"]
+- ["CSo8NSObject", "quitaTeclado"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "tipoCambio"]
+- ["CSo8NSObject", "tpDolares"]
+- ["CSo8NSObject", "tpPesos"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "Double"]
+- !private ["PSo16NSObjectProtocol", "UIAlertAction"]
+- !private ["PSo16NSObjectProtocol", "UIAlertController"]
+- !private ["PSo16NSObjectProtocol", "UITapGestureRecognizer"]
+- !private ["PSo16NSObjectProtocol", "addAction"]
+- !private ["PSo16NSObjectProtocol", "addGestureRecognizer"]
+- ["PSo16NSObjectProtocol", "calcular"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "endEditing"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- ["PSo16NSObjectProtocol", "imagen"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "present"]
+- ["PSo16NSObjectProtocol", "quitaTeclado"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "tipoCambio"]
+- ["PSo16NSObjectProtocol", "tpDolares"]
+- ["PSo16NSObjectProtocol", "tpPesos"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "alert"]
+- !private ["Ps16RawRepresentable", "cancel"]
+- ["V10ObjectiveC8Selector", "deinit"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps10Strideable", "init"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "addGestureRecognizer"]
+- !private ["PSo29UIAccessibilityIdentification", "endEditing"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- ["CSo13UIAlertAction", "deinit"]
+- !private ["CSo13UIAlertAction", "init"]
+- !private ["OSC18UIAlertActionStyle", "cancel"]
+- ["OSC18UIAlertActionStyle", "deinit"]
+- !private ["CSo17UIAlertController", "addAction"]
+- ["CSo17UIAlertController", "deinit"]
+- !private ["CSo17UIAlertController", "init"]
+- !private ["OSC22UIAlertControllerStyle", "alert"]
+- ["OSC22UIAlertControllerStyle", "deinit"]
+- !private ["PSo12UIAppearance", "addGestureRecognizer"]
+- !private ["PSo12UIAppearance", "endEditing"]
+- !private ["PSo12UIAppearance", "image"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "Double"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertAction"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertController"]
+- !private ["PSo21UIAppearanceContainer", "UITapGestureRecognizer"]
+- !private ["PSo21UIAppearanceContainer", "addAction"]
+- !private ["PSo21UIAppearanceContainer", "addGestureRecognizer"]
+- ["PSo21UIAppearanceContainer", "calcular"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "endEditing"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- ["PSo21UIAppearanceContainer", "imagen"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "present"]
+- ["PSo21UIAppearanceContainer", "quitaTeclado"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "tipoCambio"]
+- ["PSo21UIAppearanceContainer", "tpDolares"]
+- ["PSo21UIAppearanceContainer", "tpPesos"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "Double"]
+- !private ["PSo18UIContentContainer", "UIAlertAction"]
+- !private ["PSo18UIContentContainer", "UIAlertController"]
+- !private ["PSo18UIContentContainer", "UITapGestureRecognizer"]
+- !private ["PSo18UIContentContainer", "addAction"]
+- ["PSo18UIContentContainer", "calcular"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "imagen"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "present"]
+- ["PSo18UIContentContainer", "quitaTeclado"]
+- ["PSo18UIContentContainer", "tipoCambio"]
+- ["PSo18UIContentContainer", "tpDolares"]
+- ["PSo18UIContentContainer", "tpPesos"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["CSo9UIControl", "text"]
+- !private ["PSo17UICoordinateSpace", "addGestureRecognizer"]
+- !private ["PSo17UICoordinateSpace", "endEditing"]
+- !private ["PSo17UICoordinateSpace", "image"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "addGestureRecognizer"]
+- !private ["PSo13UIDynamicItem", "endEditing"]
+- !private ["PSo13UIDynamicItem", "image"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo18UIFocusEnvironment", "Double"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertAction"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertController"]
+- !private ["PSo18UIFocusEnvironment", "UITapGestureRecognizer"]
+- !private ["PSo18UIFocusEnvironment", "addAction"]
+- !private ["PSo18UIFocusEnvironment", "addGestureRecognizer"]
+- ["PSo18UIFocusEnvironment", "calcular"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "endEditing"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- ["PSo18UIFocusEnvironment", "imagen"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "present"]
+- ["PSo18UIFocusEnvironment", "quitaTeclado"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "tipoCambio"]
+- ["PSo18UIFocusEnvironment", "tpDolares"]
+- ["PSo18UIFocusEnvironment", "tpPesos"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "addGestureRecognizer"]
+- !private ["PSo11UIFocusItem", "endEditing"]
+- !private ["PSo11UIFocusItem", "image"]
+- !private ["PSo11UIFocusItem", "text"]
+- !private ["CSo19UIGestureRecognizer", "init"]
+- ["CSo7UIImage", "deinit"]
+- !private ["CSo11UIImageView", "image"]
+- !private ["PSo10UIKeyInput", "text"]
+- !private ["CSo11UIResponder", "Double"]
+- !private ["CSo11UIResponder", "UIAlertAction"]
+- !private ["CSo11UIResponder", "UIAlertController"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UIImageView"]
+- !private ["CSo11UIResponder", "UITapGestureRecognizer"]
+- ["CSo11UIResponder", "UITextField"]
+- !private ["CSo11UIResponder", "addAction"]
+- !private ["CSo11UIResponder", "addGestureRecognizer"]
+- ["CSo11UIResponder", "calcular"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "endEditing"]
+- !private ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "imagen"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "present"]
+- ["CSo11UIResponder", "quitaTeclado"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "tipoCambio"]
+- ["CSo11UIResponder", "tpDolares"]
+- ["CSo11UIResponder", "tpPesos"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "Double"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertAction"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertController"]
+- !private ["PSo30UIResponderStandardEditActions", "UITapGestureRecognizer"]
+- !private ["PSo30UIResponderStandardEditActions", "addAction"]
+- !private ["PSo30UIResponderStandardEditActions", "addGestureRecognizer"]
+- ["PSo30UIResponderStandardEditActions", "calcular"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "endEditing"]
+- !private ["PSo30UIResponderStandardEditActions", "image"]
+- ["PSo30UIResponderStandardEditActions", "imagen"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "present"]
+- ["PSo30UIResponderStandardEditActions", "quitaTeclado"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- ["PSo30UIResponderStandardEditActions", "tipoCambio"]
+- ["PSo30UIResponderStandardEditActions", "tpDolares"]
+- ["PSo30UIResponderStandardEditActions", "tpPesos"]
+- !private ["PSo30UIResponderStandardEditActions", "view"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "Double"]
+- !private ["PSo16UIStateRestoring", "UIAlertAction"]
+- !private ["PSo16UIStateRestoring", "UIAlertController"]
+- !private ["PSo16UIStateRestoring", "UITapGestureRecognizer"]
+- !private ["PSo16UIStateRestoring", "addAction"]
+- ["PSo16UIStateRestoring", "calcular"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "imagen"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "present"]
+- ["PSo16UIStateRestoring", "quitaTeclado"]
+- ["PSo16UIStateRestoring", "tipoCambio"]
+- ["PSo16UIStateRestoring", "tpDolares"]
+- ["PSo16UIStateRestoring", "tpPesos"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["CSo22UITapGestureRecognizer", "deinit"]
+- !private ["CSo22UITapGestureRecognizer", "init"]
+- !private ["CSo11UITextField", "text"]
+- !private ["PSo11UITextInput", "text"]
+- !private ["PSo17UITextInputTraits", "text"]
+- !private ["PSo18UITraitEnvironment", "Double"]
+- !private ["PSo18UITraitEnvironment", "UIAlertAction"]
+- !private ["PSo18UITraitEnvironment", "UIAlertController"]
+- !private ["PSo18UITraitEnvironment", "UITapGestureRecognizer"]
+- !private ["PSo18UITraitEnvironment", "addAction"]
+- !private ["PSo18UITraitEnvironment", "addGestureRecognizer"]
+- ["PSo18UITraitEnvironment", "calcular"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "endEditing"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- ["PSo18UITraitEnvironment", "imagen"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "present"]
+- ["PSo18UITraitEnvironment", "quitaTeclado"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "tipoCambio"]
+- ["PSo18UITraitEnvironment", "tpDolares"]
+- ["PSo18UITraitEnvironment", "tpPesos"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "addGestureRecognizer"]
+- !private ["CSo6UIView", "endEditing"]
+- !private ["CSo6UIView", "image"]
+- !private ["CSo6UIView", "text"]
+- !private ["CSo16UIViewController", "Double"]
+- !private ["CSo16UIViewController", "UIAlertAction"]
+- !private ["CSo16UIViewController", "UIAlertController"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UIImageView"]
+- !private ["CSo16UIViewController", "UITapGestureRecognizer"]
+- ["CSo16UIViewController", "UITextField"]
+- !private ["CSo16UIViewController", "addAction"]
+- ["CSo16UIViewController", "calcular"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "imagen"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "present"]
+- ["CSo16UIViewController", "quitaTeclado"]
+- ["CSo16UIViewController", "tipoCambio"]
+- ["CSo16UIViewController", "tpDolares"]
+- ["CSo16UIViewController", "tpPesos"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["C10actDivisas14ViewController", "Double"]
+- !private ["C10actDivisas14ViewController", "UIAlertAction"]
+- !private ["C10actDivisas14ViewController", "UIAlertController"]
+- ["C10actDivisas14ViewController", "UIButton"]
+- ["C10actDivisas14ViewController", "UIImageView"]
+- !private ["C10actDivisas14ViewController", "UITapGestureRecognizer"]
+- ["C10actDivisas14ViewController", "UITextField"]
+- ["C10actDivisas14ViewController", "calcular"]
+- ["C10actDivisas14ViewController", "deinit"]
+- ["C10actDivisas14ViewController", "didReceiveMemoryWarning"]
+- ["C10actDivisas14ViewController", "imagen"]
+- ["C10actDivisas14ViewController", "init"]
+- !private ["C10actDivisas14ViewController", "present"]
+- ["C10actDivisas14ViewController", "quitaTeclado"]
+- ["C10actDivisas14ViewController", "tipoCambio"]
+- ["C10actDivisas14ViewController", "tpDolares"]
+- ["C10actDivisas14ViewController", "tpPesos"]
+- !private ["C10actDivisas14ViewController", "view"]
+- ["C10actDivisas14ViewController", "viewDidLoad"]
+- !private ["Ps15_CVarArgAligned", "init"]
+- !private ["Ps22_CVarArgPassedAsDouble", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addGestureRecognizer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "endEditing"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "image"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps33_ExpressibleByBuiltinFloatLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "Double"]
+- !private ["Ps9_Hashable", "UIAlertAction"]
+- !private ["Ps9_Hashable", "UIAlertController"]
+- !private ["Ps9_Hashable", "UITapGestureRecognizer"]
+- !private ["Ps9_Hashable", "addAction"]
+- !private ["Ps9_Hashable", "addGestureRecognizer"]
+- !private ["Ps9_Hashable", "alert"]
+- ["Ps9_Hashable", "calcular"]
+- !private ["Ps9_Hashable", "cancel"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "endEditing"]
+- !private ["Ps9_Hashable", "image"]
+- ["Ps9_Hashable", "imagen"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "present"]
+- ["Ps9_Hashable", "quitaTeclado"]
+- !private ["Ps9_Hashable", "text"]
+- ["Ps9_Hashable", "tipoCambio"]
+- ["Ps9_Hashable", "tpDolares"]
+- ["Ps9_Hashable", "tpPesos"]
+- !private ["Ps9_Hashable", "view"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- !private "Ps16AbsoluteValuable"
+- "Ps9AnyObject"
+- !private "Ps19BinaryFloatingPoint"
+- "Sb"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Vs9Character"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Sd"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Sf"
+- !private "Ps13FloatingPoint"
+- "Ps8Hashable"
+- "SQ"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "V10ObjectiveC8Selector"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- "CSo13UIAlertAction"
+- "OSC18UIAlertActionStyle"
+- "CSo17UIAlertController"
+- "OSC22UIAlertControllerStyle"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo19UIGestureRecognizer"
+- "CSo7UIImage"
+- !private "CSo11UIImageView"
+- !private "PSo10UIKeyInput"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "CSo22UITapGestureRecognizer"
+- !private "CSo11UITextField"
+- !private "PSo11UITextInput"
+- !private "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- "C10actDivisas14ViewController"
+- !private "Ps15_CVarArgAligned"
+- !private "Ps22_CVarArgPassedAsDouble"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps33_ExpressibleByBuiltinFloatLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "5d981e2f31b5a0946c6b43baf32f6931"

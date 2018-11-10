@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "533768c7cb29b85b5afc6523d956c738"
+build_time: [574224522, 735063000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/proyectoFinal/proyectoFinal/AppDelegate.swift": [574222286, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/proyectoFinal/proyectoFinal/TableViewControllerTercerParcial.swift": [574224044, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/proyectoFinal/proyectoFinal/TableViewControllerSegundoParcial.swift": [574224028, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/proyectoFinal/proyectoFinal/TableViewControllerPrimerParcial.swift": [574224520, 0]

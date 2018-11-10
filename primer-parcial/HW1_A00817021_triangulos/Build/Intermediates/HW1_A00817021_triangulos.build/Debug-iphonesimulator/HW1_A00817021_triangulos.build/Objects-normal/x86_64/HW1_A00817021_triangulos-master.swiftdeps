@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "9721b333bedbac71f66bd87e825d2caa"
+build_time: [570402262, 392991000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/HW1_A00817021_triangulos/HW1_A00817021_triangulos/ViewController.swift": [569571721, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/HW1_A00817021_triangulos/HW1_A00817021_triangulos/AppDelegate.swift": [569391328, 0]

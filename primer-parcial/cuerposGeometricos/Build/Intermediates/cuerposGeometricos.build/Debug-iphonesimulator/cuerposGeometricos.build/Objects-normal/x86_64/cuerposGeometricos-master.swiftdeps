@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "d89181c94a3857d1f7c3a4a33ea39ab2"
+build_time: [570776009, 291088000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/cuerposGeometricos/cuerposGeometricos/ViewControllerPrisma.swift": [570775968, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/cuerposGeometricos/cuerposGeometricos/ViewControllerEsfera.swift": [570649212, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/cuerposGeometricos/cuerposGeometricos/ViewController.swift": [570649211, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/primer-parcial/cuerposGeometricos/cuerposGeometricos/AppDelegate.swift": [570565578, 0]

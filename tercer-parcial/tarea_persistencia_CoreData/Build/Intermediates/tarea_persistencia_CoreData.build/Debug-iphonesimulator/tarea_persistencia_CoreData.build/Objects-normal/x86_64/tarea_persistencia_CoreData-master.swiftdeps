@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "45ad1ad03b66a8473c63652438ae1c8f"
+build_time: [577249257, 188667000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/tercer-parcial/tarea_persistencia_CoreData/tarea_persistencia_CoreData/ViewController.swift": [577248520, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/tercer-parcial/tarea_persistencia_CoreData/tarea_persistencia_CoreData/AppDelegate.swift": [577215281, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/tercer-parcial/tarea_persistencia_CoreData/tarea_persistencia_CoreData/TableViewController.swift": [577248234, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/tercer-parcial/tarea_persistencia_CoreData/Build/Intermediates/tarea_persistencia_CoreData.build/Debug-iphonesimulator/tarea_persistencia_CoreData.build/DerivedSources/CoreDataGenerated/tarea_persistencia_CoreData/Articulos+CoreDataClass.swift": [577235624, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/tercer-parcial/tarea_persistencia_CoreData/Build/Intermediates/tarea_persistencia_CoreData.build/Debug-iphonesimulator/tarea_persistencia_CoreData.build/DerivedSources/CoreDataGenerated/tarea_persistencia_CoreData/Articulos+CoreDataProperties.swift": [577235624, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/tercer-parcial/tarea_persistencia_CoreData/Build/Intermediates/tarea_persistencia_CoreData.build/Debug-iphonesimulator/tarea_persistencia_CoreData.build/DerivedSources/CoreDataGenerated/tarea_persistencia_CoreData/tarea_persistencia_CoreData+CoreDataModel.swift": [577235624, 0]

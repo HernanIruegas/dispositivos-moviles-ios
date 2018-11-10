@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.61 clang-800.0.42.1)"
+options: "bcb76792dfd3735567b6912455e47fe0"
+build_time: [573241750, 791595000]
+inputs:
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tabBar/tabBar/FifthViewController.swift": [572984414, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tabBar/tabBar/SixthViewController.swift": [572985679, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tabBar/tabBar/SecondViewController.swift": [572982469, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tabBar/tabBar/FourthTableViewController.swift": [572986013, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tabBar/tabBar/AppDelegate.swift": [572982469, 0]
+  "/Users/hernaniruegasvillarreal/Documents/TEC/semestre-8/dispositivos-moviles/segundo-parcial/tabBar/tabBar/FirstViewController.swift": [572982469, 0]
